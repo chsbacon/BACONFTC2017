@@ -62,7 +62,7 @@ public class ShieldsOpMode_Linear extends LinearOpMode {
 
     @Override
     public void runOpMode() {
-        telemetry.addData("Status", "Initialized");
+        telemetry.addData("Status", "ShieldsBot Activated");
         telemetry.update();
 
         /* eg: Initialize the hardware variables. Note that the strings used here as parameters
